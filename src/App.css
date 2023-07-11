@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 90%;
+}
+.heading {
+  color: #646681;
+  display: inline-block;
+  font-family: Poppins;
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 2rem auto 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+}
